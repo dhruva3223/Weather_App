@@ -1,0 +1,16 @@
+body{
+    background-image: url('cloud.jpg');
+    background-position: top;
+}
+.search{
+    padding-bottom: 2%;
+}
+.card{
+    background: #000000ad;
+    color: white;
+    border-radius: 30px;
+}
+.appname{
+    color: black;
+    font-weight: 500;
+}
